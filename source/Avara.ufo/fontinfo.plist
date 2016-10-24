@@ -12,12 +12,17 @@
 	<integer>-320</integer>
 	<key>familyName</key>
 	<string>Avara</string>
+	<key>guidelines</key>
+	<array>
+	</array>
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>macintoshFONDFamilyID</key>
 	<integer>128</integer>
 	<key>macintoshFONDName</key>
 	<string>Avara</string>
+	<key>openTypeHeadCreated</key>
+	<string>2015/10/12 12:21:35</string>
 	<key>openTypeHeadLowestRecPPEM</key>
 	<integer>8</integer>
 	<key>openTypeHheaAscender</key>
@@ -28,6 +33,12 @@
 	<integer>80</integer>
 	<key>openTypeNameCompatibleFullName</key>
 	<string>Avara Bold</string>
+	<key>openTypeNameDesigner</key>
+	<string>Raphael Bastide</string>
+	<key>openTypeNameLicense</key>
+	<string>SIL Open Font License</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Avara</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
@@ -165,9 +176,9 @@
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
-	<integer>1</integer>
-	<key>versionMinor</key>
 	<integer>0</integer>
+	<key>versionMinor</key>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>520</integer>
 	<key>year</key>

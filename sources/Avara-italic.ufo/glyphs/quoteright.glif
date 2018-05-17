@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright" format="1">
+  <advance width="200"/>
+  <unicode hex="2019"/>
+  <outline>
+    <contour>
+      <point x="120.0" y="560.0" type="line"/>
+      <point x="200.0" y="760.0" type="line"/>
+      <point x="240.0" y="800.0" type="line"/>
+      <point x="280.0" y="800.0" type="line"/>
+      <point x="320.0" y="760.0" type="line"/>
+      <point x="320.0" y="720.0" type="line"/>
+      <point x="160.0" y="560.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.9798</real>
+        <real>0.1633</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

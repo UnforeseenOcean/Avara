@@ -1,0 +1,8 @@
+feature liga{
+    sub f i by fi;
+    sub f l by fl;
+    sub f f i by ffi;
+    sub f f l by ffl;
+    sub T h by Th;
+    sub f f by ff;
+    }liga;

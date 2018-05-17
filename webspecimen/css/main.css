@@ -9,13 +9,33 @@
     font-weight: normal;
     font-style: normal;
 }
+.book{
+  transition: all .3s ease-out;
+  position: absolute;
+  top: 40px;
+  right: 50px;
+  color: rgb(110, 50, 255);
+  border: 2px solid;
+  border-radius: 100px;
+  width: 110px;
+  height: 110px;
+  text-align: center;
+  line-height: 1.1em;
+  padding: 19px 0 0 0;
+  z-index: 20;
+  transform: rotate(-20deg);
+  letter-spacing: 1px;
+}
+.book:hover{
+  color:white;
+}
 h1{
 	font-size: 20pt;
 	line-height: 40pt;
 	display: inline-block;
 }
 html,body{
-	font:20px/1.1em arial, sans-serif;
+	font:20px/1.1em 'avarabold', sans-serif;
 	width: 100%;
 	height: 100%;
 	background-color: black; }

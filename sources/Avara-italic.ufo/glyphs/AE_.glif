@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="1080"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="240.0" y="0.0" type="line"/>
+      <point x="-40" y="0" type="line"/>
+      <point x="80.0" y="80.0" type="line"/>
+      <point x="560.0" y="720.0" type="line"/>
+      <point x="480" y="800" type="line"/>
+      <point x="680" y="800" type="line"/>
+      <point x="680.0" y="80.0" type="line"/>
+      <point x="760" y="0" type="line"/>
+      <point x="480.0" y="0.0" type="line"/>
+      <point x="560.0" y="80.0" type="line"/>
+      <point x="560" y="200" type="line"/>
+      <point x="520" y="240" type="line"/>
+      <point x="280.0" y="240.0" type="line"/>
+      <point x="160.0" y="80.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="560.0" y="640.0" type="line"/>
+      <point x="360" y="360" type="line"/>
+      <point x="320.0" y="280.0" type="line"/>
+      <point x="520.0" y="280.0" type="line"/>
+      <point x="560.0" y="320.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="680" y="800" type="line"/>
+      <point x="960" y="800" type="line"/>
+      <point x="1120" y="840" type="line"/>
+      <point x="1160" y="600" type="line"/>
+      <point x="1120" y="600" type="line"/>
+      <point x="1000" y="760" type="line"/>
+      <point x="680" y="760" type="line"/>
+    </contour>
+    <contour>
+      <point x="680" y="440" type="line"/>
+      <point x="840" y="440" type="line"/>
+      <point x="920" y="520" type="line"/>
+      <point x="920" y="320" type="line"/>
+      <point x="840" y="400" type="line"/>
+      <point x="680" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="1000" y="240" type="line"/>
+      <point x="960" y="-40" type="line"/>
+      <point x="880" y="0" type="line"/>
+      <point x="679" y="0" type="line"/>
+      <point x="679" y="40" type="line"/>
+      <point x="840" y="40" type="line"/>
+      <point x="960" y="240" type="line"/>
+    </contour>
+    <contour>
+      <point x="620.0" y="800.0" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.3739</real>
+        <real>0.9739</real>
+        <real>0.9829</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -9,6 +9,7 @@ Libre transitional serif curveless font based on a square grid.
 [↪ Visit the Web Specimen](http://raphaelbastide.com/avara)
 
 ![Specimen 3](https://rawgit.com/raphaelbastide/Avara/master/documentation/images/SPECIMEN3.svg)
+
 ![Specimen 1](https://rawgit.com/raphaelbastide/Avara/master/documentation/images/SPECIMEN2.svg)
 
 ## Contributors

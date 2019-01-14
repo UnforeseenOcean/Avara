@@ -1,5 +1,7 @@
 # Avara
 
+[Active repository on Gitlab](https://gitlab.com/velvetyne/Avara)
+
 Libre transitional serif curveless font based on a square grid.
 
 ![Grid Detail](https://rawgit.com/raphaelbastide/Avara/master/documentation/images/grid-detail.svg)
